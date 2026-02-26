@@ -92,7 +92,7 @@
                                 <p class="text-sm text-slate-500">120+ Courses</p>
                             </div>
                             <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600"
-                                class="rounded-3xl shadow-2xl w-full h-64 object-cover object-center">
+                                class="rounded-3xl shadow-2xl w-full h-64 object-cover object-center" alt="myimage1">
                         </div>
                         <div class="space-y-4">
                             <img src="https://images.unsplash.com/photo-1531403009284-440f080d1e12?w=600"
